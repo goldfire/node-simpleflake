@@ -10,9 +10,7 @@
     "distributed",
     "random"
   ],
-  "dependencies": {
-    "bignum": "^0.13.1"
-  },
+  "dependencies": {},
   "optionalDependencies": {
     "base58-native": "^0.1"
   },
